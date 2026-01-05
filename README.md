@@ -3,7 +3,7 @@
 ## React Native Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aftab-08khan&label=Profile%20Views&color=blue&style=flat)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aftab-08khan)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rasheed710)
 
 📍 **Abu Dhabi, UAE**  
 ⏱️ **Available for Immediate Joining**
