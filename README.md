@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Hi, I'm Muhammed Rasheed V P
 
 ## React Native Developer
@@ -7,14 +8,14 @@
 
 📍 **Abu Dhabi, UAE**  
 ⏱️ **Available for Immediate Joining**
-
+</div>
 ---
 
 ## 🚀 About Me
 
 I'm a **React Native Developer** with **5+ years of experience** building scalable, high-performance web and mobile applications using:
 
-- React.js(https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 - React Native(https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react)
 - TypeScript
 
