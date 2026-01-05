@@ -14,8 +14,8 @@
 
 I'm a **React Native Developer** with **5+ years of experience** building scalable, high-performance web and mobile applications using:
 
-- React.js
-- React Native
+- React.js(https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+- React Native(https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react)
 - TypeScript
 
 I specialize in:
