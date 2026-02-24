@@ -6,7 +6,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rasheed710&label=Profile%20Views&color=blue&style=flat)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rasheed710)
 
-📍 **Abu Dhabi, UAE**  
+📍 **Kerala, India**  
 ⏱️ **Available for Immediate Joining**
 </div>
 
